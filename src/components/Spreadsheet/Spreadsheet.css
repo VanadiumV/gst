@@ -1,0 +1,12 @@
+.spreadsheet {
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  .spreadsheet td {
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  .spreadsheet td.selected {
+    background-color: #e0f7fa;
+  }
+  
